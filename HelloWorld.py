@@ -1,1 +1,1 @@
-print("Hello World! This is a simple Travis CI Demo")
+print("Hello World! This is a simple Travis CI Tutorial")
